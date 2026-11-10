@@ -1,0 +1,14 @@
+{
+  "name": "TopDownWorldGen.Editor",
+  "rootNamespace": "TopDownWorldGen.Editor",
+  "references": ["TopDownWorldGen.Runtime"],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
