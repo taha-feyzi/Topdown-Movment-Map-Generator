@@ -15,7 +15,7 @@ guaranteed-walkable paths, points of interest, optional darkness/light data** �
 ## Install
 **Package Manager → + → Add package from git URL…**
 ```
-https://github.com/<your-user>/<your-repo>.git
+https://github.com/taha-feyzi/Topdown-Movment-Map-Generator.git
 ```
 (or download the repo and use *Add package from disk…* → `package.json`).
 
