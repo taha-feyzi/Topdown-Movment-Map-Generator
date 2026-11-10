@@ -19,6 +19,8 @@ https://github.com/<your-user>/<your-repo>.git
 ```
 (or download the repo and use *Add package from disk…* → `package.json`).
 
+> Keep the `.meta` files when you commit/push (Unity packages installed from Git are read-only and need them).
+
 ## 2-minute start
 1. `Tools > Top-Down World Generator > World Generator`
 2. **Create Generator In Scene**
