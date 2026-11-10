@@ -9,13 +9,12 @@ guaranteed-walkable paths, points of interest, optional darkness/light data** �
 * No render-pipeline dependency (Built-in / URP / HDRP 2D). Light sources are your own prefabs.
 * Unity **2022.3+** (developed for Unity 6). Uses only built-in Tilemap + Physics2D modules.
 
-> **Status:** v0.1, written without access to a Unity editor. Open it, check the Console, run the EditMode tests
-> (`Window > General > Test Runner`) and please open an issue for anything that fails.
+
 
 ## Install
 **Package Manager → + → Add package from git URL…**
 ```
-https://github.com/<your-user>/<your-repo>.git
+https://github.com/taha-feyzi/Topdown-Movment-Map-Generator.git
 ```
 (or download the repo and use *Add package from disk…* → `package.json`).
 
